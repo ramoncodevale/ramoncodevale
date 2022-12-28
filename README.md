@@ -6,7 +6,7 @@
 
 </div>
 
-<h1 align="center">Olá sou o Ramon Valentim , sou desenvolvedor frontend junior</h1>
+<h2 align="center">Olá sou o Ramon Valentim , sou desenvolvedor frontend junior</h2>
 
 <h3 align="center">Entre em contato comigo :</h3>
 <div align="center">
