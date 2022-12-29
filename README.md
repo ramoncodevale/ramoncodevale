@@ -1,10 +1,5 @@
 
-<div display="flex">
-<a href="https://github.com/rogervalentim">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramoncodevale&show_icons=true&theme=dracula"/> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncodevale&layout=compact&theme=dracula"/>
 
-</div>
 
 <h2 align="center">Olá sou o Ramon Valentim , sou desenvolvedor frontend junior</h2>
 
