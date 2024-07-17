@@ -12,6 +12,8 @@ Olá! 👋 Eu sou Ramon Valentim, um desenvolvedor front-end apaixonado por cria
   
 - **React**: Experiência no desenvolvimento de aplicações web com React, incluindo gerenciamento de estado com Context API/Redux, componentização e integração com APIs REST.
 
+- **TypeScript: Habilidade no uso de TypeScript para melhorar a robustez e a manutenção do código JavaScript, garantindo maior segurança e produtividade no desenvolvimento.
+
 ## Como me Encontrar
 
 - LinkedIn: [Ramon Valentim ](https://www.linkedin.com/in/ramonvalentim88/)
