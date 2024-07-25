@@ -17,5 +17,4 @@ Olá! 👋 Eu sou Ramon Valentim, um desenvolvedor front-end apaixonado por cria
 ## Como me Encontrar
 
 - LinkedIn: [Ramon Valentim ](https://www.linkedin.com/in/ramonvalentim88/)
-- Portfólio: [Ramon Valentim Portfolio](https://portfolio-nine-neon-58.vercel.app/)
 - Rocketseat: [RocketID](https://app.rocketseat.com.br/rocketid/ramon-valentim-da-silva-08422)
