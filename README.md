@@ -18,4 +18,4 @@ Olá! 👋 Eu sou Ramon Valentim, um desenvolvedor front-end apaixonado por cria
 
 - LinkedIn: [Ramon Valentim ](https://www.linkedin.com/in/ramonvalentim88/)
 - Rocketseat: [RocketID](https://app.rocketseat.com.br/rocketid/ramon-valentim-da-silva-08422)
-- Currículo: [Currículo](http://localhost:5173/src/assets/CV-RAMON-VALENTIM-FRONT-END.pdf)
+- Currículo: [Currículo](https://drive.google.com/file/d/1QnfxSVQ1w5OF4ZdMxagB6QCtiKbzxKTZ/view)
