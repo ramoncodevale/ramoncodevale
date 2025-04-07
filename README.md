@@ -1,6 +1,10 @@
-# Ramon Valentim - Desenvolvedor Front-end
+# Ramon Valentim — Desenvolvedor Front-end
 
-Olá! 👋 Eu sou Ramon Valentim, um desenvolvedor front-end apaixonado por criar interfaces web incríveis utilizando HTML, CSS, JavaScript e React.
+Olá! 👋  
+Sou o Ramon Valentim, desenvolvedor front-end com paixão por transformar ideias em interfaces web modernas, responsivas e funcionais.  
+Trabalho com foco em performance, usabilidade e boas práticas de desenvolvimento, utilizando tecnologias como HTML, CSS, JavaScript e React.
+
+---
 
 ## 🚀 Habilidades e Tecnologias
 
@@ -15,15 +19,19 @@ Olá! 👋 Eu sou Ramon Valentim, um desenvolvedor front-end apaixonado por cria
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-- **HTML**: Experiência avançada na criação de estruturas semânticas e acessíveis para páginas web.
-- **CSS**: Domínio em estilização utilizando CSS puro e pré-processadores como Sass, garantindo designs responsivos e esteticamente agradáveis.
-- **JavaScript**: Conhecimento sólido em JavaScript moderno (ES6+), manipulação do DOM, e uso de APIs para criar funcionalidades interativas.
-- **React**: Experiência no desenvolvimento de aplicações web com React, incluindo gerenciamento de estado com Context API/Redux, componentização e integração com APIs REST.
-- **TypeScript**: Habilidade no uso de TypeScript para melhorar a robustez e a manutenção do código JavaScript, garantindo maior segurança e produtividade.
+- **HTML5**: Criação de estruturas semânticas, acessíveis e otimizadas para SEO.  
+- **CSS3**: Estilização responsiva com CSS puro, Sass e frameworks como Tailwind CSS.  
+- **JavaScript (ES6+)**: Desenvolvimento de funcionalidades dinâmicas com manipulação de DOM, consumo de APIs e lógica moderna.  
+- **React**: Construção de interfaces reutilizáveis, com gerenciamento de estado via Context API ou Redux, e integração com APIs REST.  
+- **TypeScript**: Utilização de tipagem estática para tornar o código mais seguro, legível e fácil de manter.  
+- **Next.js**: Criação de aplicações web modernas com SSR, SSG, otimização de performance e boas práticas de SEO.  
+- **Git & GitHub**: Controle de versionamento, colaboração em equipe e deploy contínuo de aplicações.  
 
-## 📫 Como me Encontrar
+---
 
-- LinkedIn: [Ramon Valentim](https://www.linkedin.com/in/ramonvalentim88/)
-- Rocketseat: [RocketID](https://app.rocketseat.com.br/rocketid/ramon-valentim-da-silva-08422)
-- Currículo: [Currículo](https://drive.google.com/file/d/1fHZaZ3iQytaeu8l-UtGIDWLON3sg8VWK/view?usp=drive_link)
-- Portfólio: [Portólio](https://portfolio-novo-eight.vercel.app/)
+## 📫 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramonvalentim88/)
+- 🚀 [Rocketseat RocketID](https://app.rocketseat.com.br/rocketid/ramon-valentim-da-silva-08422)
+- 📄 [Currículo](https://drive.google.com/file/d/1fHZaZ3iQytaeu8l-UtGIDWLON3sg8VWK/view?usp=drive_link)
+- 🌐 [Portfólio](https://portfolio-novo-eight.vercel.app/)
