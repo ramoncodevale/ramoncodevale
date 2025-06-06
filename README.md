@@ -1,17 +1,17 @@
 <h1 align="center">🚀 Ramon Valentim — Desenvolvedor Front-end</h1>
 
 <p align="center">
-  Criando interfaces web modernas, responsivas e focadas na melhor experiência do usuário.
+  Interfaces web modernas, responsivas e com foco total na experiência do usuário.
 </p>
 
 ---
 
-## 👋 Sobre mim
+## 👨‍💻 Sobre mim
 
-Olá! Me chamo **Ramon Valentim**, sou desenvolvedor front-end com paixão por transformar ideias em soluções digitais.  
-Meu foco é criar aplicações web com **alta performance**, **usabilidade** e **boas práticas de desenvolvimento**, sempre priorizando a experiência do usuário.
+Olá! Sou o **Ramon Valentim**, desenvolvedor front-end apaixonado por transformar ideias em experiências digitais de alto impacto.  
+Busco sempre unir **performance**, **usabilidade** e **boas práticas**, criando interfaces acessíveis, funcionais e modernas.
 
-Trabalho com as principais tecnologias do ecossistema front-end, entregando interfaces elegantes, acessíveis e funcionais.
+Atuo com tecnologias do ecossistema JavaScript, principalmente **React** e **Next.js**, entregando projetos com qualidade e eficiência.
 
 ---
 
@@ -30,34 +30,27 @@ Trabalho com as principais tecnologias do ecossistema front-end, entregando inte
 
 ---
 
-## ✨ Minhas principais habilidades
+## ⚡ Principais habilidades
 
-- **HTML5**: Estruturas semânticas e otimizadas para SEO.  
-- **CSS3 & Tailwind CSS**: Estilização responsiva com foco em design moderno.  
-- **JavaScript (ES6+)**: Manipulação de DOM, consumo de APIs e lógica funcional.  
-- **TypeScript**: Código mais seguro, organizado e fácil de escalar.  
-- **React**: Componentização, hooks, roteamento e integração com APIs.  
-- **Next.js**: SSR, SSG, performance otimizada e SEO.  
-- **Git & GitHub**: Versionamento de código, colaboração em equipe e deploy contínuo.
-
----
-
-## 📌 Projetos em destaque
-
-Confira meu portfólio completo com projetos e cases:
-
-🔗 **[Acesse meu Portfólio](https://portfolio-novo-eight.vercel.app/)**
+- **HTML5**: Estrutura semântica e acessível, otimizada para SEO.  
+- **CSS3 & Tailwind CSS**: Estilização responsiva, design limpo e escalável.  
+- **JavaScript (ES6+)**: Lógica, DOM, APIs e interatividade.  
+- **TypeScript**: Segurança e clareza no código.  
+- **React**: Componentização, hooks, gerenciamento de estado e integração com APIs.  
+- **Next.js**: SSR, SSG, performance e SEO.  
+- **Git & GitHub**: Controle de versão e colaboração eficiente.
 
 ---
 
-## 📫 Conecte-se comigo
+## 💼 Portfólio
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramonvalentim88/)  
-- 🚀 [Rocketseat RocketID](https://app.rocketseat.com.br/rocketid/ramon-valentim-da-silva-08422)  
-- 📄 [Currículo PDF](https://drive.google.com/file/d/1fHZaZ3iQytaeu8l-UtGIDWLON3sg8VWK/view?usp=drive_link)
+Explore meus projetos e veja na prática o que posso entregar:
+
+🔗 **[Acesse meu portfólio](https://portfolio-novo-eight.vercel.app/)**
 
 ---
 
-<p align="center">
-  💡 Sempre aprendendo. Sempre evoluindo.
-</p>
+## 🤝 Vamos nos conectar?
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ramonvalentim88/)  
+- 🚀 [Rocketseat RocketID](https://app.rocketseat.com.br/rocketid/ramon-valen)
