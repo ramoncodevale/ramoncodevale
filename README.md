@@ -1,21 +1,21 @@
 <h1 align="center">🚀 Ramon Valentim — Desenvolvedor Front-end</h1>
 
 <p align="center">
-  Interfaces web modernas, responsivas e com foco total na experiência do usuário.
+  Interfaces modernas, responsivas e com foco total na experiência do usuário.
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou o **Ramon Valentim**, desenvolvedor front-end apaixonado por transformar ideias em experiências digitais de alto impacto.  
+Olá! Sou o **Ramon Valentim**, desenvolvedor front-end apaixonado por transformar ideias em experiências digitais incríveis.  
 Busco sempre unir **performance**, **usabilidade** e **boas práticas**, criando interfaces acessíveis, funcionais e modernas.
 
-Atuo com tecnologias do ecossistema JavaScript, principalmente **React** e **Next.js**, entregando projetos com qualidade e eficiência.
+Atuo com foco no ecossistema JavaScript, especialmente com **React** e **Next.js**, entregando projetos com qualidade, eficiência e código limpo.
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🧰 Tecnologias que utilizo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
@@ -32,25 +32,32 @@ Atuo com tecnologias do ecossistema JavaScript, principalmente **React** e **Nex
 
 ## ⚡ Principais habilidades
 
-- **HTML5**: Estrutura semântica e acessível, otimizada para SEO.  
-- **CSS3 & Tailwind CSS**: Estilização responsiva, design limpo e escalável.  
-- **JavaScript (ES6+)**: Lógica, DOM, APIs e interatividade.  
-- **TypeScript**: Segurança e clareza no código.  
-- **React**: Componentização, hooks, gerenciamento de estado e integração com APIs.  
-- **Next.js**: SSR, SSG, performance e SEO.  
-- **Git & GitHub**: Controle de versão e colaboração eficiente.
+- **HTML5**: Estrutura semântica, acessível e otimizada para SEO.  
+- **CSS3 / Tailwind CSS**: Estilização responsiva, design moderno e produtivo.  
+- **JavaScript (ES6+)**: Manipulação de DOM, APIs, lógica e interatividade.  
+- **TypeScript**: Tipagem estática para maior segurança e escalabilidade.  
+- **React**: Componentização, hooks, roteamento e consumo de APIs REST/GraphQL.  
+- **Next.js**: SSR, SSG, performance otimizada e foco em SEO.  
+- **Git & GitHub**: Versionamento de código e colaboração eficiente.
 
 ---
 
 ## 💼 Portfólio
 
-Explore meus projetos e veja na prática o que posso entregar:
+Confira meus projetos e veja na prática o que eu posso construir:
 
-🔗 **[Acesse meu portfólio](https://portfolio-novo-eight.vercel.app/)**
+🔗 [Acesse meu portfólio](https://portfolio-novo-eight.vercel.app/)
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 🌐 Conecte-se comigo
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ramonvalentim88/)  
-- 🚀 [Rocketseat RocketID](https://app.rocketseat.com.br/rocketid/ramon-valen)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramonvalentim88/)
+- 🚀 [Rocketseat RocketID](https://app.rocketseat.com.br/rocketid/ramon-valentim-da-silva-08422)
+- 📂 [GitHub](https://github.com/ramoncodevale)
+
+---
+
+<p align="center">
+  Feito com 💙 por Ramon Valentim
+</p>
